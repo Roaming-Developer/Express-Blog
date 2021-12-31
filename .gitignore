@@ -1,0 +1,4 @@
+Blog/node_modules
+Blog/.env
+Blog/*.log
+*.log
